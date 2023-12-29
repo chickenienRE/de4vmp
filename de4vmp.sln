@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "de4vmp", "de4vmp\de4vmp.csproj", "{4A61E091-D3DD-472F-A719-8F66849E81F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "de4vmp.Core", "de4vmp.Core\de4vmp.Core.csproj", "{2A052942-96B0-46DF-8F28-EDDAC34ABD4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A61E091-D3DD-472F-A719-8F66849E81F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A61E091-D3DD-472F-A719-8F66849E81F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A61E091-D3DD-472F-A719-8F66849E81F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A61E091-D3DD-472F-A719-8F66849E81F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A052942-96B0-46DF-8F28-EDDAC34ABD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A052942-96B0-46DF-8F28-EDDAC34ABD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A052942-96B0-46DF-8F28-EDDAC34ABD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A052942-96B0-46DF-8F28-EDDAC34ABD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

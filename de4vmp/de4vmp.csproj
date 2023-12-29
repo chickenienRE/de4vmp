@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Company>chickenien</Company>
+        <AssemblyVersion>1.0.0</AssemblyVersion>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\de4vmp.Core\de4vmp.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AsmResolver" Version="5.4.0" />
+      <PackageReference Include="AsmResolver.DotNet" Version="5.4.0" />
+      <PackageReference Include="AsmResolver.PE" Version="5.4.0" />
+      <PackageReference Include="AsmResolver.PE.File" Version="5.4.0" />
+      <PackageReference Include="Figgle" Version="0.5.1" />
+      <PackageReference Include="Spectre.Console" Version="0.47.1-preview.0.11" />
+    </ItemGroup>
+
+</Project>
