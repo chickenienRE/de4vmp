@@ -9,6 +9,7 @@ Usage
 1. if target has anti-tamper, dump it via ks-dumper (https://github.com/EquiFox/KsDumper)
 2. demutate with demutation (https://github.com/xlfj5211/DeMutation)
 3. drag n drop into devirtualizer
+4. clean junk code with de4dot
 
 Common errors
 ===========
